@@ -1,4 +1,4 @@
-# Global-Tuberculosis-Analysis-using-D3
+# Global Tuberculosis Analysis using D3
 
 ## Overview
 The Global Tuberculosis Analysis Dashboard is an interactive visualization tool that provides insights into Tuberculosis data from 1990 to 2013. This dashboard enables users to analyze key metrics such as incidence, recovery rate, prevalence, and total cases across different regions and years.

@@ -50,7 +50,7 @@ The dashboard includes the following five visualizations:
 - Export functionality for filtered data.
 
 ## Acknowledgements
-Special thanks to [HasnainRaza](https://github.com/HasnainRzza) for his contributions to the project. His expertise and support were invaluable in helping to shape the direction and functionality of the analysis.
+Special thanks to [HasnainRaza](https://github.com/HasnainRzza) and [HaiderAkbar](https://github.com/muhammadhaider02) for his contributions to the project. His expertise and support were invaluable in helping to shape the direction and functionality of the analysis.
 
 Contact
 If you encounter any issues or have suggestions for improvement, feel free to reach out via email at muhammadhaiderakbar@gmail.com or create an issue in the project repository.
